@@ -19,10 +19,10 @@
     "url": "git+https://github.com/SS1GGzxc/Cryptis"
   },
   "homepage": "https://github.com/SS1GGzxc/Cryptis#readme",
-  "author": "SS1GGzxc",
+  "author": "ss1gg",
   "license": "MIT",
   "devDependencies": {
-    "@ss1ggzxc/tsconfig": "1.0.0",
+    "@ss1gg/tsconfig": "1.1.0",
     "typescript": "4.9.5"
   }
 }
