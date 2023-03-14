@@ -1,24 +1,24 @@
-# Cryptis
+# CryptoLoc
 
 Fast tiny library for converting between hex and string
 
 # Install
 
 ```sh
-  npm install cryptis
+  npm install cryptoloc
 ```
 ```sh
-  yarn add cryptis
+  yarn add cryptoloc
 ```
 ```sh
-  pnpm add cryptis
+  pnpm add cryptoloc
 ```
 
 ## Get Started
 
 Encrypt message
 ``` javascript
-  import {encrypt} from 'cryptis';
+  import {encrypt} from 'cryptoloc';
 
   const message = "Hello world!";
 
@@ -27,7 +27,7 @@ Encrypt message
 
 Decrypt message
 ``` javascript
-  import {decrypt} from 'cryptis';
+  import {decrypt} from 'cryptoloc';
 
   const message = "48656c6c6f20776f726c6421";
 
