@@ -1,6 +1,6 @@
 {
   "name": "cryptoloc",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "Convert hex and string",
   "main": "dist/index.js",
   "files": [
@@ -9,6 +9,11 @@
     "README.md"
   ],
   "type": "module",
+  "keywords": [
+    "Hex",
+    "Base64",
+    "Crypto"
+  ],
   "scripts": {
     "start": "node dist/index.js",
     "build": "tsc",
